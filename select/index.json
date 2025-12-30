@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Get Wild Continual",
+  "base_artist": "TM NETWORK",
+  "createdAt": "2025-12-30T13:46:40.131718Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Get Wild Continual",
+      "artist": "TM NETWORK",
+      "has_synced": true,
+      "path": "select/01_Get_Wild_Continual_TM_NETWORK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Get Wild Continual",
+      "artist": "TM NETWORK",
+      "has_synced": false,
+      "path": "select/pl_01_Get_Wild_Continual_TM_NETWORK.txt"
+    }
+  ]
+}
